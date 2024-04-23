@@ -83,3 +83,10 @@ color: darkgoldenrod;
 .text{
   color: black;
 }
+.note{
+  margin-top: 2rem;
+  color: gray;
+}
+.color-red{
+  color: red;
+}
