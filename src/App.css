@@ -40,3 +40,24 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.h1_home{
+color: darkgoldenrod;
+} 
+.home_values{
+
+}
+.flex-col{
+  display: flex;
+  flex-direction: column;
+}
+.button{
+  padding: 15px 25px;
+  margin-top: 2rem;
+  background-color: darkgoldenrod;
+  font-size: larger;
+}
+.Input_home{
+  padding: 1rem;
+}
