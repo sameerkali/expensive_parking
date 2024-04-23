@@ -61,3 +61,25 @@ color: darkgoldenrod;
 .Input_home{
   padding: 1rem;
 }
+
+
+/* parking page */
+
+.grid {
+  margin-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(10, 1fr); 
+  grid-auto-rows: 50px; 
+  gap: 5px; 
+}
+
+.slot {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ccc;
+  background-color: #f0f0f0;
+}
+.text{
+  color: black;
+}
